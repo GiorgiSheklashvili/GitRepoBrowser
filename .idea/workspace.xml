@@ -2,123 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="32155089-3ec6-4c73-b06d-a053c6cba8f8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/tests/unit/coverage/sort-arrow-sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_h2database_h2_1_4_197.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_2_7_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_transaction_javax_transaction_api_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_jdbc_8_5_34.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_juli_8_5_34.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_0_1_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_5_2_17_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_2_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_22_0_GA.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_2_0_3_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_postgresql_postgresql_42_2_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_0_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_0_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_0_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_0_11_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_0_11_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_5_0_10_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_0_10_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_5_0_10_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_0_10_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/src/main/java/com/home/backend/ErrorCode.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/src/main/java/com/home/backend/domain/User.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/src/main/java/com/home/backend/exception/GitRepoBrowserException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/src/main/java/com/home/backend/repository/UserRepository.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/src/main/resources/public/static/css/app.28622f29.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/src/main/resources/public/static/css/chunk-vendors.47c78559.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/src/main/resources/public/static/js/app.bffd13f7.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/src/main/resources/public/static/js/app.ff64bb77.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/src/main/resources/public/static/js/app.ff64bb77.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/src/main/resources/public/static/js/chunk-vendors.595c8129.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/src/main/resources/public/static/js/chunk-vendors.595c8129.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/src/test/java/com/home/backend/repository/UserRepositoryTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/src/components/Bootstrap.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/src/components/Service.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/src/components/User.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/target/dist/static/css/app.28622f29.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/target/dist/static/css/chunk-vendors.47c78559.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/target/dist/static/js/app.ff64bb77.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/target/dist/static/js/app.ff64bb77.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/target/dist/static/js/chunk-vendors.595c8129.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/target/dist/static/js/chunk-vendors.595c8129.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/tests/unit/components/Hello.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/tests/unit/coverage/base.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/tests/unit/coverage/components/Bootstrap.vue.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/tests/unit/coverage/components/HelloWorld.vue.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/tests/unit/coverage/components/Service.vue.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/tests/unit/coverage/components/User.vue.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/tests/unit/coverage/components/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/tests/unit/coverage/coverage-final.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/tests/unit/coverage/frontend/babel.config.js.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/tests/unit/coverage/frontend/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/tests/unit/coverage/frontend/node/yarn/dist/bin/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/tests/unit/coverage/frontend/node/yarn/dist/bin/yarn.js.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/tests/unit/coverage/frontend/node/yarn/dist/lib/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/tests/unit/coverage/frontend/node/yarn/dist/lib/v8-compile-cache.js.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/tests/unit/coverage/frontend/src/components/Bootstrap.vue.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/tests/unit/coverage/frontend/src/components/HelloWorld.vue.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/tests/unit/coverage/frontend/src/components/Service.vue.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/tests/unit/coverage/frontend/src/components/User.vue.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/tests/unit/coverage/frontend/src/components/http-common.js.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/tests/unit/coverage/frontend/src/components/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/tests/unit/coverage/frontend/src/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/tests/unit/coverage/frontend/src/router.js.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/tests/unit/coverage/frontend/src/views/Home.vue.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/tests/unit/coverage/frontend/src/views/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/tests/unit/coverage/frontend/target/dist/static/js/about.72f7e6cd.js.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/tests/unit/coverage/frontend/target/dist/static/js/app.ff64bb77.js.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/tests/unit/coverage/frontend/target/dist/static/js/chunk-vendors.595c8129.js.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/tests/unit/coverage/frontend/target/dist/static/js/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/tests/unit/coverage/frontend/tests/e2e/custom-assertions/elementCount.js.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/tests/unit/coverage/frontend/tests/e2e/custom-assertions/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/tests/unit/coverage/frontend/tests/e2e/specs/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/tests/unit/coverage/frontend/tests/e2e/specs/test.js.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/tests/unit/coverage/frontend/tests/unit/.eslintrc.js.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/tests/unit/coverage/frontend/tests/unit/coverage/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/tests/unit/coverage/frontend/tests/unit/coverage/prettify.js.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/tests/unit/coverage/frontend/tests/unit/coverage/sorter.js.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/tests/unit/coverage/frontend/tests/unit/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/tests/unit/coverage/frontend/vue.config.js.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/tests/unit/coverage/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/tests/unit/coverage/prettify.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/tests/unit/coverage/prettify.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/tests/unit/coverage/sorter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/tests/unit/coverage/src/components/Bootstrap.vue.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/tests/unit/coverage/src/components/HelloWorld.vue.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/tests/unit/coverage/src/components/Service.vue.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/tests/unit/coverage/src/components/User.vue.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/tests/unit/coverage/src/components/http-common.js.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/tests/unit/coverage/src/components/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/tests/unit/coverage/src/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/tests/unit/coverage/src/router.js.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/tests/unit/coverage/src/views/Home.vue.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/tests/unit/coverage/src/views/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/tests/unit/coverage/views/Home.vue.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/tests/unit/coverage/views/index.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/frontend/target/dist/static/js/app.341691a7.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/frontend/target/dist/static/js/chunk-vendors.c984819f.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/frontend/target/dist/static/js/chunk-vendors.c984819f.js.map" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/frontend/target/dist/static/css/app.db58cca5.css" afterPath="$PROJECT_DIR$/backend/src/main/resources/public/static/css/app.9fb6352d.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/frontend/target/dist/static/js/app.341691a7.js" afterPath="$PROJECT_DIR$/backend/src/main/resources/public/static/js/app.bffd13f7.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/target/frontend-0.0.1-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/frontend/target/frontend-0.0.1-SNAPSHOT.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/pom.xml" afterPath="$PROJECT_DIR$/backend/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/src/main/java/com/home/backend/controller/BackendController.java" afterPath="$PROJECT_DIR$/backend/src/main/java/com/home/backend/controller/BackendController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/src/main/resources/public/index.html" afterPath="$PROJECT_DIR$/backend/src/main/resources/public/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/package.json" afterPath="$PROJECT_DIR$/frontend/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/src/App.vue" afterPath="$PROJECT_DIR$/frontend/src/App.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/src/components/HelloWorld.vue" afterPath="$PROJECT_DIR$/frontend/src/components/HelloWorld.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/src/components/http-common.js" afterPath="$PROJECT_DIR$/frontend/src/components/http-common.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/src/router.js" afterPath="$PROJECT_DIR$/frontend/src/router.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/target/dist/index.html" afterPath="$PROJECT_DIR$/frontend/target/dist/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/yarn.lock" afterPath="$PROJECT_DIR$/frontend/yarn.lock" />
     </list>
     <ignored path="$PROJECT_DIR$/backend/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -413,15 +297,16 @@
       <workItem from="1539784881417" duration="5119000" />
       <workItem from="1539808905117" duration="3422000" />
       <workItem from="1539812631503" duration="25233000" />
-      <workItem from="1540200494349" duration="22046000" />
+      <workItem from="1540200494349" duration="23030000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55820000" />
+    <option name="totallyTimeSpent" value="56804000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -434,7 +319,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297491" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5400239" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297491" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.83034647" sideWeight="0.49783784" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.83034647" sideWeight="0.49783784" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22378379" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
