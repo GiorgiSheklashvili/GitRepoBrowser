@@ -1,7 +1,6 @@
 <template>
     <div class="hello">
-        <b-button @click="callRestService()">CALL Spring Boot REST backend service</b-button>
-        <h3>{{ response }}</h3>
+        <h3>{{ msg }}</h3>
     </div>
 </template>
 
@@ -12,25 +11,6 @@
         name: "HelloWorld",
         props: {
             msg: String
-        },
-        data() {
-            return {
-                response: [],
-                errors: []
-            }
-        },
-
-        methods: {
-            callRestService() {
-                AXIOS.get(`api/hello`)
-                    .then(response => {
-                        // JSON responses are automatically parsed.
-                        this.response = response.data
-                    })
-                    .catch(e => {
-                        this.errors.push(e)
-                    })
-            }
         }
     };
 </script>
