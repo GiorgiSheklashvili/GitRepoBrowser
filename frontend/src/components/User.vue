@@ -50,7 +50,6 @@
                         // JSON responses are automatically parsed.
                         this.response = response.data;
                         this.user.id = response.data;
-                        console.log(response.data);
                         this.showResponse = true;
                     })
                     .catch(e => {
@@ -62,7 +61,6 @@
                     .then(response => {
                         // JSON responses are automatically parsed.
                         this.retrievedUser = response.data;
-                        console.log(response.data);
                         this.showRetrievedUser = true;
                     })
                     .catch(e => {
